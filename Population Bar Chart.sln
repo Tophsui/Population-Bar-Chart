@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Population Bar Chart", "Population Bar Chart.vcxproj", "{AA476C83-5FE9-47F8-A751-2F9E5C1E5E91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA476C83-5FE9-47F8-A751-2F9E5C1E5E91}.Debug|x64.ActiveCfg = Debug|x64
+		{AA476C83-5FE9-47F8-A751-2F9E5C1E5E91}.Debug|x64.Build.0 = Debug|x64
+		{AA476C83-5FE9-47F8-A751-2F9E5C1E5E91}.Debug|x86.ActiveCfg = Debug|Win32
+		{AA476C83-5FE9-47F8-A751-2F9E5C1E5E91}.Debug|x86.Build.0 = Debug|Win32
+		{AA476C83-5FE9-47F8-A751-2F9E5C1E5E91}.Release|x64.ActiveCfg = Release|x64
+		{AA476C83-5FE9-47F8-A751-2F9E5C1E5E91}.Release|x64.Build.0 = Release|x64
+		{AA476C83-5FE9-47F8-A751-2F9E5C1E5E91}.Release|x86.ActiveCfg = Release|Win32
+		{AA476C83-5FE9-47F8-A751-2F9E5C1E5E91}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8712A46-3414-4F97-84EC-F6BD294A913A}
+	EndGlobalSection
+EndGlobal
